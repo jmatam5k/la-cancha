@@ -1,0 +1,68 @@
+.contenedor{
+	padding: 20px;
+	left: 180px;
+	position: relative;
+}
+.cancha{
+	height: 550px;
+	width: 960px;
+	background-color: #8cb27c;
+	position: absolute;
+}
+.cesped{
+	height: 508px;
+	width: 915px;
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	border: 1px solid white;
+}
+.area_izq{
+	top: 32%;
+	width: 115px;
+	height: 200px;
+	position: absolute;
+	border-top: 1px solid white;
+	border-right: 1px solid white;
+	border-bottom: 1px solid white;
+}
+
+.area_der{
+	left: 87.3%;
+	top: 32%;
+	width: 115px;
+	height: 200px;
+	position: absolute;
+	border-top: 1px solid white;
+	border-left: 1px solid white;
+	border-bottom: 1px solid white;
+}
+
+.centro{
+	position: absolute;
+	width: 205px;
+	height: 205px;
+	left:40%;
+	top: 28%;
+	border-radius: 100px;
+	border: 1px solid white;
+}
+
+.uno{
+	position: absolute;
+	top: 32.9%;
+	left: 11.5%;
+}
+
+.dos{
+	position: absolute;
+	top: 13%;
+	left: 53%;
+}
+
+.tres{
+	position: absolute;
+	top: 66%;
+	left: 84.7%;
+
+}
